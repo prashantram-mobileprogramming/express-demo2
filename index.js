@@ -34,7 +34,7 @@ app.post("/adduser/",(req,res)=>{
 
 
 app.get("/",(req,res)=>{
-    res.send("Hello");
+    res.send("Hello!!!!");
 })
 
 app.listen(port, ()=>{
